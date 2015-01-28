@@ -11,7 +11,7 @@ ZfrQuadernoModule interfaces with ZfrQuaderno.
 Installation is only officially supported using Composer:
 
 ```sh
-php composer.phar require zfr/zfr-quaderno:1.*
+php composer.phar require zfr/zfr-quaderno-module:1.*
 ```
 
 Copy-paste the `zfr_quaderno.global.php.dist` file to your `autoload` folder, and enable the module by adding
